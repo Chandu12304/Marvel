@@ -88,6 +88,7 @@ ___
 # TASK 15 : Active Participation
 
 - Participated in Kagada 2023 Poster Presentation track.
+![Description of the image](https://i.imgur.com/svcfejG.png)
 ![Description of the image](https://i.imgur.com/KNW2JOX.png)
 - Codefury 6.0 Finalist.
 ![Description of the image](https://i.imgur.com/1E3T79D.png)
