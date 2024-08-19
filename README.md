@@ -1,6 +1,6 @@
 # Cloud Computing and Cyber Security - Marvel R&D Club
 
-Welcome to my repository for the Cloud Computing and Cyber Security course under the Marvel R&D Club at [UVC](https://hub.uvcemarvel.in/). This repository contains all the tasks, assignments, and projects I have completed as part of the course.
+Welcome to my repository for the Cloud Computing and Cyber Security course under the Marvel R&D Club at [UVCE](https://hub.uvcemarvel.in/). This repository contains all the tasks, assignments, and projects I have completed as part of the course.
 
 ## About the Marvel R&D Club
 
