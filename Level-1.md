@@ -31,5 +31,38 @@ link:- https://github.com/Chandu12304/Marvel/tree/main/cryptography
 
 ![Encryption Process](https://i.imgur.com/XD7BURw.png)
 
+***
+# Task 3: OSI Model
+
+## Implementation Overview
+In this task, I created a visual representation of the OSI model using a Draw.io diagramming tool. This diagram illustrates the seven layers of the OSI model, providing a clear overview of how data communication occurs over a network. Each layer serves a specific function and plays a crucial role in the overall data transmission process, which is essential for effective cloud computing. The diagram helps visualize the interactions between different layers, enhancing the understanding of how these layers work together to support cloud-based applications and services.
+
+link:- https://app.diagrams.net/
+
+## OSI Model Layers
+
+1. **Physical Layer**:
+   - Deals with the physical connection between devices, including cables, switches, and electrical signals. In cloud computing, it ensures reliable connectivity and data transmission over the internet.
+
+2. **Data Link Layer**:
+   - Responsible for node-to-node data transfer and error detection. It helps in managing how data packets are placed on the network and how they are checked for errors, crucial for maintaining data integrity in cloud environments.
+
+3. **Network Layer**:
+   - Manages the routing of data packets between devices across different networks. This layer is vital for cloud computing, as it enables communication between the cloud service provider and the client.
+
+4. **Transport Layer**:
+   - Ensures complete data transfer, managing flow control, error recovery, and data segmentation. In cloud computing, it ensures that data is delivered reliably and in the correct order.
+
+5. **Session Layer**:
+   - Establishes, maintains, and terminates communication sessions between applications. This layer is significant in cloud services for managing user sessions and maintaining connections between clients and cloud applications.
+
+6. **Presentation Layer**:
+   - Translates data between the application layer and the network format, ensuring that data is in a readable format. In cloud computing, this layer helps in data encryption and decryption, ensuring secure data exchange.
+
+7. **Application Layer**:
+   - The top layer that interfaces directly with end-user applications. It provides services for email, file transfers, and web browsing, making it essential for cloud applications to function seamlessly.
+
+![OSI Model Diagram](https://i.imgur.com/Q6BtXks.png)
+
 
 
