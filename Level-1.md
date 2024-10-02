@@ -95,6 +95,7 @@ link:- https://github.com/Chandu12304/MySQL--CRUD-Operation/tree/main/mysql
    ```
 
 Using Postman, I tested these CRUD operations by sending requests to my Express.js server, which interacted with the MySQL database to perform the respective operations. This hands-on experience enhanced my understanding of database management and querying.
-![MySQL](https://i.imgur.com/XD7BURw.png)
-
+![MySQL](https://i.imgur.com/t7kJK4U.png)
+![MySQL](https://i.imgur.com/Qnrlkl6.png)
+![MySQL](https://i.imgur.com/AcLgA6T.png)
 
