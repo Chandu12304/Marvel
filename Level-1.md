@@ -1,6 +1,7 @@
 # Task 2: Git Bash and GitHub
 
 In this task, I set up a Git repository using Git Bash to manage version control. Initially, I created a new file, added text to it, and then committed and pushed the changes to the remote repository on GitHub. To further explore branching and collaboration, I created another file in a new branch, made modifications, and then created a pull request to merge my changes into the main branch. This exercise reinforced my understanding of collaborative coding practices and the importance of version control in software development.
+
 link:- https://github.com/Chandu12304/gitBashPractice
 
 ### Git Commands Used
