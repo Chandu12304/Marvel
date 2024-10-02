@@ -1,5 +1,6 @@
 # Task 2: Git Bash and GitHub
 
+## Implementation Overview
 In this task, I set up a Git repository using Git Bash to manage version control. Initially, I created a new file, added text to it, and then committed and pushed the changes to the remote repository on GitHub. To further explore branching and collaboration, I created another file in a new branch, made modifications, and then created a pull request to merge my changes into the main branch. This exercise reinforced my understanding of collaborative coding practices and the importance of version control in software development.
 
 link:- https://github.com/Chandu12304/gitBashPractice
@@ -66,6 +67,34 @@ link:- https://github.com/Chandu12304/Marvel/tree/main/cryptography
 
 ***
 
+# Task 7: Databases
 
+## Implementation Overview
+In this task, I set up a MySQL database and created a simple CRUD application using Node.js and Express.js. CRUD operations are fundamental for managing data within a database, allowing users to create, read, update, and delete records. 
+
+link:- https://github.com/Chandu12304/MySQL--CRUD-Operation/tree/main/mysql
+
+1. **Create**: To insert new records into a table, the SQL syntax is:
+   ```sql
+   INSERT INTO table_name (column1, column2) VALUES (value1, value2);
+   ```
+
+2. **Read**: To retrieve data from a table, the syntax is:
+   ```sql
+   SELECT * FROM table_name WHERE condition;
+   ```
+
+3. **Update**: To modify existing records, use:
+   ```sql
+   UPDATE table_name SET column1 = value1 WHERE condition;
+   ```
+
+4. **Delete**: To remove records from a table, the syntax is:
+   ```sql
+   DELETE FROM table_name WHERE condition;
+   ```
+
+Using Postman, I tested these CRUD operations by sending requests to my Express.js server, which interacted with the MySQL database to perform the respective operations. This hands-on experience enhanced my understanding of database management and querying.
+![MySQL](https://i.imgur.com/XD7BURw.png)
 
 
