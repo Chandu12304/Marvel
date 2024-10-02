@@ -12,17 +12,17 @@ In this task, I set up a Git repository using Git Bash to manage version control
 
 2. **Create a new file and add text:**
    ```bash
-   echo "hello" > file1.txt
+   echo "new file using master branch" > file2.txt
    ```
 
 3. **Add the file to the staging area:**
    ```bash
-   git add file1.txt
+   git add file2.txt
    ```
 
 4. **Commit the changes:**
    ```bash
-   git commit -m "Add first file with initial text"
+   git commit -m "changes in main branch"
    ```
 
 5. **Push changes to the remote repository:**
@@ -37,9 +37,9 @@ In this task, I set up a Git repository using Git Bash to manage version control
 
 7. **Create another file and make changes:**
    ```bash
-   echo "This is my second file with changes." > file2.txt
-   git add file2.txt
-   git commit -m "Add second file with changes"
+   echo "Hello" > file1.txt
+   git add file1.txt
+   git commit -m "message added using branch01"
    ```
 
 8. **Push the new branch to the remote repository:**
