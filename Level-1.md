@@ -27,6 +27,8 @@ link:- https://github.com/Chandu12304/gitBashPractice
 ## Implementation Overview
 In this task, I implemented a basic encryption and decryption program in Python using the PyCrypto library, which introduces cryptographic algorithms. For encryption, I created a cipher using the AES algorithm in CBC mode with a 16-byte key. I padded my plaintext message to ensure it matched the required block size, then encrypted it and saved both the ciphertext and the initialization vector (IV) to a file. For decryption, I read the IV and ciphertext from the file, created a new cipher with the same key and IV, and decrypted the message. Finally, I unpadded the decrypted text to retrieve the original message. This exercise helped me understand the practical applications of encryption in securing data.
 
+link:- https://github.com/Chandu12304/Marvel/tree/main/cryptography
+
 ![Encryption Process](https://i.imgur.com/XD7BURw.png)
 
 
