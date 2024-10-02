@@ -22,22 +22,12 @@ link:- https://github.com/Chandu12304/gitBashPractice
    - This is done through the GitHub web interface by navigating to the repository, switching to the new branch, and clicking on "Compare & pull request."
 
 ***
-# Task 4: Encryption Techniques
-
-## Implementation Overview
-In this task, I implemented a basic encryption and decryption program in Python using the PyCrypto library, which introduces cryptographic algorithms. For encryption, I created a cipher using the AES algorithm in CBC mode with a 16-byte key. I padded my plaintext message to ensure it matched the required block size, then encrypted it and saved both the ciphertext and the initialization vector (IV) to a file. For decryption, I read the IV and ciphertext from the file, created a new cipher with the same key and IV, and decrypted the message. Finally, I unpadded the decrypted text to retrieve the original message. This exercise helped me understand the practical applications of encryption in securing data.
-
-link:- https://github.com/Chandu12304/Marvel/tree/main/cryptography
-
-![Encryption Process](https://i.imgur.com/XD7BURw.png)
-
-***
 # Task 3: OSI Model
 
 ## Implementation Overview
 In this task, I created a visual representation of the OSI model using a Draw.io diagramming tool. This diagram illustrates the seven layers of the OSI model, providing a clear overview of how data communication occurs over a network. Each layer serves a specific function and plays a crucial role in the overall data transmission process, which is essential for effective cloud computing. The diagram helps visualize the interactions between different layers, enhancing the understanding of how these layers work together to support cloud-based applications and services.
 
-link:- https://app.diagrams.net/
+file link:- https://app.diagrams.net/
 
 ## OSI Model Layers
 
@@ -63,6 +53,20 @@ link:- https://app.diagrams.net/
    - The top layer that interfaces directly with end-user applications. It provides services for email, file transfers, and web browsing, making it essential for cloud applications to function seamlessly.
 
 ![OSI Model Diagram](https://i.imgur.com/Q6BtXks.png)
+
+***
+
+# Task 4: Encryption Techniques
+
+## Implementation Overview
+In this task, I implemented a basic encryption and decryption program in Python using the PyCrypto library, which introduces cryptographic algorithms. For encryption, I created a cipher using the AES algorithm in CBC mode with a 16-byte key. I padded my plaintext message to ensure it matched the required block size, then encrypted it and saved both the ciphertext and the initialization vector (IV) to a file. For decryption, I read the IV and ciphertext from the file, created a new cipher with the same key and IV, and decrypted the message. Finally, I unpadded the decrypted text to retrieve the original message. This exercise helped me understand the practical applications of encryption in securing data.
+
+link:- https://github.com/Chandu12304/Marvel/tree/main/cryptography
+
+![Encryption Process](https://i.imgur.com/XD7BURw.png)
+
+***
+
 
 
 
