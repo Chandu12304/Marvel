@@ -85,7 +85,7 @@ In this task, I used Python's Beautiful Soup library to scrape a news article we
 
 link:- https://github.com/Chandu12304/Web-Scrapping
 
-![web scrdapping](https://i.imgur.com/4dulUzs.png)
+![web scrapping](https://i.imgur.com/4dulUzs.png)
 
 ***
 
