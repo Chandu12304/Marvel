@@ -120,4 +120,5 @@ Using Postman, I tested these CRUD operations by sending requests to my Express.
 ![MySQL](https://i.imgur.com/t7kJK4U.png)
 ![MySQL](https://i.imgur.com/Qnrlkl6.png)
 ![MySQL](https://i.imgur.com/AcLgA6T.png)
-
+![MySQL](https://i.imgur.com/PW5mRwW.png)
+![MySQL](https://i.imgur.com/V51drFW.png)
