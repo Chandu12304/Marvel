@@ -8,6 +8,8 @@ link:- https://github.com/Chandu12304/ChatApp-Socket.io
 ![Socket.iol Diagram](https://i.imgur.com/GmwW1xe.png)
 ![Socket.iol Diagram](https://i.imgur.com/q8bkmvL.png)
 
+***
+
 # Task 2: Git Bash and GitHub
 
 ## Implementation Overview
@@ -74,6 +76,16 @@ In this task, I implemented a basic encryption and decryption program in Python 
 link:- https://github.com/Chandu12304/Marvel/tree/main/cryptography
 
 ![Encryption Process](https://i.imgur.com/XD7BURw.png)
+
+***
+
+# Task 5: IP Addressing and Protocols
+
+In this task, I used Python's Beautiful Soup library to scrape a news article website, extracting relevant data based on specific requirements. Beautiful Soup, a powerful library for parsing HTML and XML documents, was utilized to navigate and filter through webpage elements. By selecting tags, classes, and attributes that matched the targeted data, I was able to pull specific information, such as article titles, publication dates, and content. This approach showcases how Beautiful Soup can be used efficiently to gather data from web pages, providing a structured method for extracting and processing content in Python.
+
+link:- https://github.com/Chandu12304/Web-Scrapping
+
+![web scrdapping](https://i.imgur.com/4dulUzs.png)
 
 ***
 
