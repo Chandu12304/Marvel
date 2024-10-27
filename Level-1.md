@@ -1,3 +1,13 @@
+# Task 1: Linux Based Task with Socket.io
+
+This chat application, developed using Node.js and Socket.io, enables real-time messaging among multiple users by establishing a WebSocket connection. Initially, an HTTP server is set up, which Socket.io then upgrades to a WebSocket connection to facilitate bi-directional, low-latency data exchange. Each user connects to the server via a socket, enabling seamless interaction as messages are transmitted instantly to all connected clients. The design supports multiple participants in a shared chatroom, allowing a dynamic and interactive messaging experience. This setup demonstrates the efficiency and ease of real-time communication using WebSocket in a Node.js environment.
+
+link:- https://github.com/Chandu12304/ChatApp-Socket.io
+
+![Socket.iol Diagram](https://i.imgur.com/shehthA.png)
+![Socket.iol Diagram](https://i.imgur.com/GmwW1xe.png)
+![Socket.iol Diagram](https://i.imgur.com/q8bkmvL.png)
+
 # Task 2: Git Bash and GitHub
 
 ## Implementation Overview
