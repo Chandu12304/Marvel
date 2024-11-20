@@ -89,6 +89,24 @@ link:- https://github.com/Chandu12304/Web-Scrapping
 
 ***
 
+Task 6: Kali Linux and SSH
+
+In this task, I installed Kali Linux on Oracle VirtualBox, a robust virtualization tool that enables running multiple operating systems on one physical machine. Kali Linux, a Debian-based OS, is tailored for penetration testing and security auditing, making it an essential tool for cybersecurity tasks.
+
+After setting up the environment, I utilized Nmap, a popular open-source tool for network discovery and security auditing, to perform scans. 
+
+I conducted two types of scans:
+
+1. **TCP Connect Scan (-sT)**: This scan establishes a full TCP connection with the target, helping identify open ports and their services. While effective, it is easily detected by firewalls and intrusion detection systems.
+
+2. **SYN Scan (-sS)**: This "stealth" scan sends SYN packets to target ports without completing the handshake, making it faster and harder to detect. It is ideal for identifying open ports while avoiding detection.
+
+These scans provided insights into network vulnerabilities and potential security loopholes.
+
+![Kali Linux](https://i.postimg.cc/DySpwzGP/Screenshot-2024-10-26-13-55-13.png)
+
+***
+
 # Task 7: Databases
 
 ## Implementation Overview
